@@ -31,4 +31,4 @@ jobs:
     
     - name: execute py script
       run: |
-        python main.py
+        python __init__.py
